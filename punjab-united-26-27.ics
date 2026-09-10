@@ -57,15 +57,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ea9779c7-a854-4664-b92a-20f490f384dc@openai.local
-DTSTAMP:20260907T061800Z
-SEQUENCE:1
-DTSTART;TZID=Europe/London:20260908T194500
-DTEND;TZID=Europe/London:20260908T214500
-SUMMARY:POSTPONED - Cray Wanderers (A) - KSC 1st Round
-DESCRIPTION:POSTPONED. This fixture will not take place on 8 September. New date to be confirmed.
+DTSTAMP:20260910T162200Z
+SEQUENCE:2
+DTSTART;TZID=Europe/London:20261006T194500
+DTEND;TZID=Europe/London:20261006T214500
+SUMMARY:Cray Wanderers (A) - Kent Senior Cup
+DESCRIPTION:Away fixture — Kent Senior Cup. Rescheduled from 8 September. Kick-off 7:45pm. Fixtures are subject to change.
 LOCATION:Away
 TRANSP:TRANSPARENT
-STATUS:CANCELLED
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b2dc84e9-3fe5-4e41-aef8-a98d7f32ce79@openai.local
